@@ -1,0 +1,27 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Classes
+COLOR	#ff0000
+
+LEGEND_TITLE	Proteobacteria classes
+LEGEND_SHAPES	1	1	1	1
+LEGEND_COLORS	#1f77b4	#2ca02c	#ff7f0e	#9467bd
+LEGEND_LABELS	Clado_A	Clado_B	Clado_C	Outgroup
+
+DATA
+Caulobacter_crescentus_RECA	#1f77b4	Clado_A
+Agrobacterium_fabrum_RECA	#1f77b4	Clado_A
+Sinorhizobium_meliloti_RECA	#1f77b4	Clado_A
+Brucella_abortus_RECA	#1f77b4	Alpha
+
+Burkholderia_cenocepacia_RECA	#2ca02c	Clado_B
+Neisseria_meningitidis_RECA	#2ca02c	Clado_B
+Ralstonia_pseudosolanacearum_RECA	#2ca02c	Clado_B
+Nitrosomonas_europaea_RECA	#2ca02c	Clado_B
+
+Escherichia_coli_RECA	#ff7f0e	Gamma
+Klebsiella_pneumoniae_RECA	#ff7f0e	Clado_C
+Pseudomonas_aeruginosa_RECA	#ff7f0e	Clado_C
+Acinetobacter_baumannii_RECA	#ff7f0e	Clado_C
+
+Bacillus_subtilis_RECA	#9467bd	Outgroup
