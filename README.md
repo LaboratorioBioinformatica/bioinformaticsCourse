@@ -17,9 +17,8 @@ Os roteiros foram desenvolvidos com o objetivo de **compreender principalmente o
 3. **Comparação de Genomas Bacterianos**  
 4. **Reconstruindo a Origem da Vida**  
 5. **Da Filogenia à Filogenômica**  
-6. **Diversidade da Microbiota em Ambientes Naturais**  
-7. **Potencial Funcional da Microbiota em Ambientes Naturais**  
-8. **Montagem de Genomas a partir de Metagenomas**  
+6. **Diversidade da Microbiota Humana**  
+7. **Potencial Funcional da Microbiota Humana**  
 
 ---
 
